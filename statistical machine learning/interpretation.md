@@ -1,0 +1,4 @@
+- [InterpretML ](https://github.com/interpretml/interpret) : open-source python package for training interpretable machine learning models and explaining blackbox systems
+- [ALIBI](https://github.com/SeldonIO/alibi/blob/master/README.md) :  open source Python library aimed at machine learning model inspection and interpretation
+- [ELI5](https://eli5.readthedocs.io/en/latest/index.html) : Python library which allows to visualize and debug various Machine Learning models using unified API
+- [SHAP](https://github.com/slundberg/shap) : game theoretic approach to explain the output of any machine learning model
