@@ -12,6 +12,7 @@
 - [ALIBI](https://github.com/SeldonIO/alibi/blob/master/README.md) :  open source Python library aimed at machine learning model inspection and interpretation
 - [ELI5](https://eli5.readthedocs.io/en/latest/index.html) : Python library which allows to visualize and debug various Machine Learning models using unified API
 - [SHAP](https://github.com/slundberg/shap) : game theoretic approach to explain the output of any machine learning model
+- [Interpretation 관련 논문](https://github.com/lopusz/awesome-interpretable-machine-learning) : 다있다...!
 
 # Optimization
 - [Tutorial on hyperopt](https://www.kaggle.com/fanvacoolt/tutorial-on-hyperopt)
@@ -23,3 +24,6 @@
 - [Laurae++ : xgboost/lightgbm](https://sites.google.com/view/lauraepp/parameters) : useful !
 - [Xgboost 하이퍼 파라미터 튜닝](https://www.kaggle.com/lifesailor/xgboost) : kaggle 예시
 - [Bayes Optimization 기초부터 XGB까지](https://www.kaggle.com/toastls93/bayes-optimization-xgb) : kaggle 예시
+
+# modeling
+- [Stacknet](https://github.com/kaz-Anova/StackNet)
