@@ -1,6 +1,0 @@
-- [auto-sklearn](https://automl.github.io/auto-sklearn/master/index.html#)
-- [H2O automl](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
-- [NNI](https://github.com/microsoft/nni) : lightweight but powerful toolkit to help users automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression
-- [automl paper](https://github.com/hibayesian/awesome-automl-papers) : 나중에 공부 참고
-- [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/) : 참고 블로그
-- (automl opensource 설명)[https://awesomeopensource.com/projects/automl]

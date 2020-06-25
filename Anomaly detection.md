@@ -1,3 +1,0 @@
-- [costcla](http://albahnsen.github.io/CostSensitiveClassification/Intro.html) : cost-sensitive machine learning (classification)
-- [논문모음](https://github.com/hoya012/awesome-anomaly-detection)
-- [SUALAB](http://research.sualab.com/introduction/review/2020/01/30/anomaly-detection-overview-1.html) : 참고블로그

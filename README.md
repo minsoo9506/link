@@ -27,3 +27,28 @@
 
 # modeling
 - [Stacknet](https://github.com/kaz-Anova/StackNet)
+
+# Gaussian process
+- [Gpytorch](https://gpytorch.readthedocs.io/en/latest/index.html)
+
+# Pyspark
+- [100x-faster-randomized-hyperparameter-searching-framework-with-pyspark](https://towardsdatascience.com/100x-faster-randomized-hyperparameter-searching-framework-with-pyspark-4de19e44f5e6)
+
+# Image
+- [cs231n 강의](http://cs231n.stanford.edu/)
+- [Image classification 관련 블로그](https://hoya012.github.io/blog/deeplearning-classification-guidebook-1/) : 한글, 설명 잘해줬다.
+- [AutoAugment](https://github.com/DeepVoltaire/AutoAugment)
+- [fast autoaugment](https://github.com/kakaobrain/fast-autoaugment)
+
+# AutoML
+- [auto-sklearn](https://automl.github.io/auto-sklearn/master/index.html#)
+- [H2O automl](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
+- [NNI](https://github.com/microsoft/nni) : lightweight but powerful toolkit to help users automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression
+- [automl paper](https://github.com/hibayesian/awesome-automl-papers) : 나중에 공부 참고
+- [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/) : 참고 블로그
+- [automl opensource 설명](https://awesomeopensource.com/projects/automl)
+
+# Anomaly detection
+- [costcla](http://albahnsen.github.io/CostSensitiveClassification/Intro.html) : cost-sensitive machine learning (classification)
+- [논문모음](https://github.com/hoya012/awesome-anomaly-detection)
+- [SUALAB](http://research.sualab.com/introduction/review/2020/01/30/anomaly-detection-overview-1.html) : 참고블로그
