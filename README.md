@@ -40,6 +40,12 @@
 - [AutoAugment](https://github.com/DeepVoltaire/AutoAugment)
 - [fast autoaugment](https://github.com/kakaobrain/fast-autoaugment)
 
+# Gan
+- [all about the gan](https://github.com/hollobit/All-About-the-GAN) : GAN 관련 링크 모음
+- [how to train a gan](https://github.com/soumith/ganhacks) : tips
+- [pytorch gan](https://github.com/eriklindernoren/PyTorch-GAN#gan) : gan 논문들 구현
+- [really awesome gan](https://github.com/nightrome/really-awesome-gan) : gan 관련 자료, 논문
+
 # AutoML
 - [auto-sklearn](https://automl.github.io/auto-sklearn/master/index.html#)
 - [H2O automl](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
