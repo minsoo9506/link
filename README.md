@@ -1,3 +1,6 @@
+- [Dask](https://docs.dask.org/en/latest/)
+- [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html) : sklearn viz 👍
+
 # Featur engineering
 ### 라이브러리, 사용예시
 - [Category Encoders](https://contrib.scikit-learn.org/categorical-encoding/) : useful
