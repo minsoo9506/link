@@ -1,5 +1,7 @@
 - [Dask](https://docs.dask.org/en/latest/)
 - [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html) : sklearn viz 👍
+- [데이터 사이언스 질문집](https://github.com/zzsza/Datascience-Interview-Questions)
+- [Arviz](https://arviz-devs.github.io/arviz/notebooks/Introduction.html) : 베이즈 시각화 툴 👍
 
 # Featur engineering
 ### 라이브러리, 사용예시
@@ -16,9 +18,11 @@
 - [ELI5](https://eli5.readthedocs.io/en/latest/index.html) : Python library which allows to visualize and debug various Machine Learning models using unified API
 - [SHAP](https://github.com/slundberg/shap) : game theoretic approach to explain the output of any machine learning model
 - [Interpretation 관련 논문](https://github.com/lopusz/awesome-interpretable-machine-learning) : 다있다...!
+- [awesome machine learning](https://github.com/jphall663/awesome-machine-learning-interpretability) : 여기도 다있다
 
 # Optimization
 - [Tutorial on hyperopt](https://www.kaggle.com/fanvacoolt/tutorial-on-hyperopt)
+- [optuna](https://optuna.org/) 👍
 
 ### Boosting hyperparameter
 - [Complete Guide to Parameter Tuning in XGBoost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
@@ -48,6 +52,7 @@
 - [how to train a gan](https://github.com/soumith/ganhacks) : tips
 - [pytorch gan](https://github.com/eriklindernoren/PyTorch-GAN#gan) : gan 논문들 구현
 - [really awesome gan](https://github.com/nightrome/really-awesome-gan) : gan 관련 자료, 논문
+- [TextGan](https://github.com/williamSYSU/TextGAN-PyTorch)
 
 # AutoML
 - [auto-sklearn](https://automl.github.io/auto-sklearn/master/index.html#)
@@ -61,3 +66,4 @@
 - [costcla](http://albahnsen.github.io/CostSensitiveClassification/Intro.html) : cost-sensitive machine learning (classification)
 - [논문모음](https://github.com/hoya012/awesome-anomaly-detection)
 - [SUALAB](http://research.sualab.com/introduction/review/2020/01/30/anomaly-detection-overview-1.html) : 참고블로그
+- [공부 자료 모음](https://github.com/yzhao062/anomaly-detection-resources) 👍
